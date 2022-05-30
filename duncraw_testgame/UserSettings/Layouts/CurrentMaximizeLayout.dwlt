@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 7641
+  controlID: 8000
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,9 +250,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 18.593613, y: 0.93256474, z: 5.442395}
+    m_Target: {x: -27.716301, y: 12.647749, z: 1.4500265}
     speed: 2
-    m_Value: {x: 18.593613, y: 0.93256474, z: 5.442395}
+    m_Value: {x: -27.716301, y: 12.647749, z: 1.4500265}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -299,13 +299,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.05447028, y: 0.77033794, z: -0.059919085, w: -0.6316956}
+    m_Target: {x: -0.4704428, y: -0.5244885, z: 0.48667523, w: -0.5154533}
     speed: 2
-    m_Value: {x: -0.054497063, y: 0.7707167, z: -0.05994855, w: -0.6320063}
+    m_Value: {x: -0.46995914, y: -0.5255372, z: 0.48763654, w: -0.5149365}
   m_Size:
-    m_Target: 14.221005
+    m_Target: 4.47315
     speed: 2
-    m_Value: 14.221005
+    m_Value: 4.4731507
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -354,7 +354,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 7642
+  controlID: 8001
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -379,7 +379,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 7643
+  controlID: 8002
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -437,9 +437,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d2610000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 86c5fdff7ec6fdff04c7fdff14cafdff6acafdffa4cdfdffe2cdfdff38cefdff0222fefff022feffdcb4ffff36fbffffea5b0000
+      m_SelectedIDs: 6068fdff
+      m_LastClickedID: -169888
+      m_ExpandedIDs: 7c91fdff86c5fdff7ec6fdff04c7fdff14cafdff6acafdffa4cdfdffe2cdfdff38cefdff0222fefff022feffdcb4ffff36fbffffea5b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -650,21 +650,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/FBX files
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/FBX files
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\19564\Documents\GitHub\duncraw-game\duncraw_testgame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e05e0000
-    m_LastClickedID: 24288
+    m_SelectedIDs: dc5e0000
+    m_LastClickedID: 24284
     m_ExpandedIDs: 00000000b65e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -718,8 +718,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: d2610000
-    m_LastClickedInstanceID: 25042
+    m_SelectedInstanceIDs: 6068fdff
+    m_LastClickedInstanceID: -169888
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e2580000cc580000d2580000e25a0000
     m_RenameOverlay:
@@ -796,8 +796,8 @@ MonoBehaviour:
     y: 0
     width: 455
     height: 939
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
